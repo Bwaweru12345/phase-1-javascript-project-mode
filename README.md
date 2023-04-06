@@ -22,7 +22,7 @@ In order for you to use the content on this repo ensure you have the following:
 ### Executing program
 
 * You can be able to run this app but opening it in the browser using this link 
-<!-- * add deployed link here -->
+https://bespoke-gaufre-276abe.netlify.app/
 ```
 
 ```
